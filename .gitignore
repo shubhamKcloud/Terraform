@@ -1,0 +1,10 @@
+# Ignore files in the VPC folder
+/VPC/*.tfstate
+/VPC/*.tfstate.backup
+/VPC/.terraform
+
+# Ignore files in the modules/securityGroup folder
+/modules/securityGroup/*.tfstate
+/modules/securityGroup/*.tfstate.backup
+/modules/securityGroup/.terraform
+
